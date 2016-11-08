@@ -2,7 +2,7 @@ algoritmo "EXE 1 a enquanto"
 var
 res , A , cont : real
 inicio
-escreva ("Número da tabuada : ")
+escreva ("NÃºmero da tabuada : ")
 leia (A)
 cont <- 1
 repita
@@ -13,3 +13,5 @@ ate (cont > 10 )
 
 
 fimalgoritmo
+
+Teste
